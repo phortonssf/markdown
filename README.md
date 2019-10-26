@@ -1,2 +1,2 @@
 # markdown
-{{hello.md}}
+{{hello.txt}}
