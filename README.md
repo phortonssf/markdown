@@ -1,2 +1,2 @@
 # markdown
-{{./hello.txt}}
+/hello.txt
